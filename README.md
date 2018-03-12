@@ -1,2 +1,6 @@
 # hello-world
-Just one simple repository
+
+Hi Humans!
+
+I like python because i'm interested in machine learning.
+So let's go!
